@@ -2,29 +2,29 @@
 
 ## 哪些屬性對於惡意程式分類有效？
 
-1. feature 306 (0.013411)
-2. feature 117 (0.011097)
-3. feature 265 (0.008002)
-4. feature 228 (0.007035)
-5. feature 1638 (0.006078)
-6. feature 95 (0.006050)
-7. feature 1497 (0.005857)
-8. feature 740 (0.005746)
-9. feature 877 (0.005639)
-10. feature 314 (0.005220)
+1. feature section_names_.tls (0.013411)
+2. feature ent_q_diffs_mean (0.011097)
+3. feature ent_p_7 (0.008002)
+4. feature ent_q_diff_diffs_2_max (0.007035)
+5. feature Img3 (0.006078)
+6. feature misc1_unableto (0.006050)
+7. feature dw_por (0.005857)
+8. feature TlsAlloc (0.005746)
+9. feature LoadLibraryW (0.005639)
+10. feature Unknown_Sections_lines_por (0.005220)
 
 ## 哪些屬性對於惡意程式分類無效？
 
-1. feature 345 (0.000000)
-2. feature 458 (0.000000)
-3. feature 78 (0.000000)
-4. feature 70 (0.000000)
-5. feature 449 (0.000000)
-6. feature 412 (0.000000)
-7. feature 1049 (0.000000)
-8. feature 1475 (0.000000)
-9. feature 335 (0.000000)
-10. feature 981 (0.000000)
+1. feature wvsprintfA (0.000000)
+2. feature __vbaRecAnsiToUni (0.000000)
+3. feature misc_installdir (0.000000)
+4. feature ---Seperator (0.000000)
+5. feature GetSaveFileNameA (0.000000)
+6. feature lstrcmpiW (0.000000)
+7. feature __vbaAryMove (0.000000)
+8. feature fdivp (0.000000)
+9. feature GetWindowTextLengthA (0.000000)
+10. feature SetDIBColorTable (0.000000)
 
 ## 用什麼方法可以幫助你決定上述的結論？
 
