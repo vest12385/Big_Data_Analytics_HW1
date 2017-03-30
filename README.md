@@ -1,6 +1,6 @@
-#Homework1
+# Homework1
 
-##哪些屬性對於惡意程式分類有效？
+## 哪些屬性對於惡意程式分類有效？
 
 1. feature 306 (0.013411)
 2. feature 117 (0.011097)
@@ -13,7 +13,7 @@
 9. feature 877 (0.005639)
 10. feature 314 (0.005220)
 
-##哪些屬性對於惡意程式分類無效？
+## 哪些屬性對於惡意程式分類無效？
 
 1. feature 345 (0.000000)
 2. feature 458 (0.000000)
@@ -26,10 +26,10 @@
 9. feature 335 (0.000000)
 10. feature 981 (0.000000)
 
-##用什麼方法可以幫助你決定上述的結論？
+## 用什麼方法可以幫助你決定上述的結論？
 
 使用Random Forest
 
-##透過Python哪些套件以及方法可以幫助你完成上面的工作？
+## 透過Python哪些套件以及方法可以幫助你完成上面的工作？
 
 pandas (read data) & sklearn (random forest) & numpy (standard deviation)
